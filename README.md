@@ -5,21 +5,19 @@ An intelligent virtual fitness coach that uses computer vision and machine learn
 ---
 
 ## 🎮 How to Use
-┌─────────────────────────────────────────────────────────┐
-│ │
-│ 1️⃣ Enter your personal data │
-│ (name, age, weight, height) │
-│ │
-│ 2️⃣ Select exercise │
-│ (Push-ups or Squats) │
-│ │
-│ 3️⃣ Press START and begin your workout │
-│ │
-│ 4️⃣ AI will count reps and provide feedback │
-│ │
-│ 5️⃣ Check analytics to track your progress │
-│ │
-└─────────────────────────────────────────────────────────┘
+
+1️⃣ Enter your personal data 
+ (name, age, weight, height) 
+ 
+2️⃣ Select exercise
+ (Push-ups or Squats) 
+ 
+3️⃣ Press START and begin your workout
+
+4️⃣ AI will count reps and provide feedback 
+ 
+5️⃣ Check analytics to track your progress 
+
 
 ### Detailed Steps:
 
