@@ -95,10 +95,24 @@ Section	Data Displayed
 
 ---
 ## ⚠️ Tips for Best Results 
-Tip	              Why it matters
-Stand 2-3 meters from camera		              Ensures full body visibility
-Wear contrasting clothes		              Makes pose detection more accurate
-Ensure good lighting	              Improves landmark detection
-Face the camera directly	              Better angle calculation
-Do full range of motion	              Accurate rep counting
+| Tip | 	Why it matters |
+|---------|-------------|
+| Stand 2-3 meters from camera | Ensures full body visibility |
+| Wear contrasting clothes | Makes pose detection more accurate |
+| Ensure good lighting | Improves landmark detection |
+| Face the camera directly | Better angle calculation |
+| Face the camera directly | Better angle calculation |
+| Do full range of motion | Accurate rep counting |
+
+---
+👤 Authors
+Mohamed Ashraf 
+
+Mohamed Ali 
+
+Mohamed Othman
+
+Omar Ahmed
+
+GitHub: @MoAshraf149
 
