@@ -79,8 +79,26 @@ python gym_trainer.py
 ---
 
 ## 🎥 Demo Preview
-<img width="1591" height="1008" alt="Screenshot 2026-05-07 165446" src="https://github.com/user-attachments/assets/f4883236-10c0-4647-b545-8606b497604f" />
-<img width="1124" height="945" alt="Screenshot 2026-05-07 165141" src="https://github.com/user-attachments/assets/88c73a02-c05e-4eb6-9554-78e09d0ae6be" />
-<img width="1731" height="998" alt="Screenshot 2026-05-07 165210" src="https://github.com/user-attachments/assets/14b2815a-ab1e-4b5a-8f5c-d8060b0f7c4d" />
-<img width="1556" height="999" alt="Screenshot 2026-05-07 165236" src="https://github.com/user-attachments/assets/17d6ac72-7912-43eb-a076-ac8182828716" />
+<img width="1731" height="998" alt="Screenshot 2026-05-07 165210" src="https://github.com/user-attachments/assets/421f5778-4832-4461-838a-1bf31dedc260" />
+
+---
+## 📊 Analytics Dashboard
+After completing workouts, click 📊 ANALYTICS to view:
+
+Section	Data Displayed
+👤 User Profile	Name, Age, Weight, Height, BMI, BMR
+💪 Push-ups Stats	Total reps, Calories burned, Best session
+🦵 Squats Stats	Total reps, Calories burned, Best session
+🏆 Total Stats	Overall reps, Total calories, Total sessions
+📈 Progress Chart	Weekly performance graph
+🔥 Calories Chart	Distribution between exercises
+
+---
+## ⚠️ Tips for Best Results 
+Tip	              Why it matters
+Stand 2-3 meters from camera		              Ensures full body visibility
+Wear contrasting clothes		              Makes pose detection more accurate
+Ensure good lighting	              Improves landmark detection
+Face the camera directly	              Better angle calculation
+Do full range of motion	              Accurate rep counting
 
