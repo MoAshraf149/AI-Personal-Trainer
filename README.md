@@ -74,4 +74,5 @@ pip install opencv-python mediapipe numpy matplotlib pillow
 
 # Run the application
 python gym_trainer.py
+```
 🎥 Demo Preview
